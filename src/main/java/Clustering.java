@@ -18,7 +18,7 @@ public class Clustering {
 
     public static void main (String[] args) {
 
-
+//parsing data
         try {
             File file = new File(filePath);
             if (file.isFile() && file.exists()) {
@@ -29,7 +29,16 @@ public class Clustering {
                 dataCount = Integer.parseInt(line);//first row data count
 
                 while ((line = bufferedReader.readLine()) != null) {
-                    readline(line);
+                    Row rowToAdd;
+                    rowToAdd = readline(line);
+
+                    if(!cityData.containsKey(rowToAdd.city)){
+                        City newCity = new City();
+                        cityData.put(rowToAdd.city,newCity);
+                    }
+
+                    cityData.get(rowToAdd.city).addRow(rowToAdd);
+
                 }
                 read.close();
             } else {
@@ -39,6 +48,10 @@ public class Clustering {
             System.out.println("error read file");
             e.printStackTrace();
         }
+
+
+
+
 
 
     }
@@ -81,8 +94,8 @@ public class Clustering {
         try {
             String encoding = "GBK";
             File file = new File(filePath);
-            if (file.isFile() && file.exists()) { //ÅÐ¶ÏÎÄ¼þÊÇ·ñ´æÔÚ
-                InputStreamReader read = new InputStreamReader(new FileInputStream(file), encoding);//¿¼ÂÇµ½±àÂë¸ñÊ½
+            if (file.isFile() && file.exists()) { //ï¿½Ð¶ï¿½ï¿½Ä¼ï¿½ï¿½Ç·ï¿½ï¿½ï¿½ï¿½
+                InputStreamReader read = new InputStreamReader(new FileInputStream(file), encoding);//ï¿½ï¿½ï¿½Çµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê½
                 BufferedReader bufferedReader = new BufferedReader(read);
                 String lineTxt = null;
                 int i = 0;

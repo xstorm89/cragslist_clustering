@@ -10,6 +10,7 @@ public class Row {
 
 
     public Row(String city,String category, String section, String heading){
+
         this.city =  city;
         this.category =category;
         this.section =section;

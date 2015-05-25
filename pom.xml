@@ -23,6 +23,28 @@
             <version>0.0.3.3.3.alpha1</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.jblas</groupId>
+            <artifactId>jblas</artifactId>
+            <version>1.2.3</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.nd4j</groupId>
+            <artifactId>nd4j-jblas</artifactId>
+            <version>0.0.3.5.5.3</version>
+        </dependency>
+
+
+
+        <dependency>
+            <groupId>edu.stanford.nlp</groupId>
+            <artifactId>stanford-corenlp</artifactId>
+            <version>3.5.2</version>
+        </dependency>
+
+
+
 
 
 
