@@ -35,16 +35,17 @@ public class StandoffNamedEntityRecognizer {
 
       List<Triple<String, Integer, Integer>> annotations = annotator.classifyToCharacterOffsets(text);
 
-      if (annotations.contains("MONEY")) {
-         System.out.println("money");
+//      String ne=token.get(NamedEntityTagAnnotation.class);
 
-      }
+
       List<String> result = new ArrayList<>();
 
       for (Triple<String, Integer, Integer> annotation : annotations) {
          int beginIndex = annotation.second();
          int endIndex = annotation.third();
-         result.add(text.substring(beginIndex, endIndex));
+         if(annotation.first.equalsIgnoreCase(tag)) {
+            result.add(text.substring(beginIndex, endIndex));
+         }
       }
       return  result;
    }

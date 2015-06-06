@@ -1,50 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ce7e35c-31a7-410b-8352-fc834948b739" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CSVReader.class" afterPath="$PROJECT_DIR$/target/classes/CSVReader.class" />
+    <list default="true" id="0f82575f-b3b6-4ac4-9c04-af9559da7474" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com.cs599.xx.iml" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\classifiers\english.all.3class.caseless.distsim.crf.ser.gz" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\classifiers\english.all.3class.distsim.crf.ser.gz" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\classifiers\english.conll.4class.distsim.crf.ser.gz" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\classifiers\english.conll.4class.distsim.prop" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\classifiers\example.serialized.ncc.ncc.ser.gz" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\english.all.3class.caseless.distsim.crf.ser.gz" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\KMeans.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\gtrf\Corpus.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\gtrf\Document.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\gtrf\Model.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\gtrf\RunLDA.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\gtrf\Suffstats.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\gtrf\Tools.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\gtrf\Vocabulary.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\lda\Corpus.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\lda\Document.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\lda\Model.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\lda\RunLDA.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\lda\Suffstats.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\lda\Tools.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\lda\Vocabulary.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\process\Edges_2.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\process\Process.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\wpmcn\CoreNLPDemo.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\wpmcn\CustomCRFClassifier.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\wpmcn\StandoffNamedEntityRecognizer.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\wpmcn\TokenSpan.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\wpmcn\TokenSpanFinder.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\wpmcn\training.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\resources\english.all.3class.caseless.distsim.crf.ser.gz" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\target\classes\KMeans$Centroid.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\target\classes\KMeans$Data.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\target\classes\KMeans.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\target\classes\english.all.3class.caseless.distsim.crf.ser.gz" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/City.class" afterPath="$PROJECT_DIR$/target/classes/City.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Clustering.class" afterPath="$PROJECT_DIR$/target/classes/Clustering.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wpmcn/CoreNLPDemo.class" afterPath="$PROJECT_DIR$/target/classes/wpmcn/CoreNLPDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gtrf/Corpus.class" afterPath="$PROJECT_DIR$/target/classes/gtrf/Corpus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lda/Corpus.class" afterPath="$PROJECT_DIR$/target/classes/lda/Corpus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wpmcn/CustomCRFClassifier.class" afterPath="$PROJECT_DIR$/target/classes/wpmcn/CustomCRFClassifier.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gtrf/Document.class" afterPath="$PROJECT_DIR$/target/classes/gtrf/Document.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lda/Document.class" afterPath="$PROJECT_DIR$/target/classes/lda/Document.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/process/Edges_2.class" afterPath="$PROJECT_DIR$/target/classes/process/Edges_2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/JsonParser.class" afterPath="$PROJECT_DIR$/target/classes/JsonParser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gtrf/Model.class" afterPath="$PROJECT_DIR$/target/classes/gtrf/Model.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lda/Model.class" afterPath="$PROJECT_DIR$/target/classes/lda/Model.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/process/Process.class" afterPath="$PROJECT_DIR$/target/classes/process/Process.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Row.class" afterPath="$PROJECT_DIR$/target/classes/Row.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gtrf/RunLDA.class" afterPath="$PROJECT_DIR$/target/classes/gtrf/RunLDA.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lda/RunLDA.class" afterPath="$PROJECT_DIR$/target/classes/lda/RunLDA.class" />
+      <change type="MODIFICATION" beforePath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\target\classes\Clustering.class" afterPath="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\target\classes\Clustering.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wpmcn/StandoffNamedEntityRecognizer.class" afterPath="$PROJECT_DIR$/target/classes/wpmcn/StandoffNamedEntityRecognizer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gtrf/Suffstats.class" afterPath="$PROJECT_DIR$/target/classes/gtrf/Suffstats.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lda/Suffstats.class" afterPath="$PROJECT_DIR$/target/classes/lda/Suffstats.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wpmcn/TokenSpan.class" afterPath="$PROJECT_DIR$/target/classes/wpmcn/TokenSpan.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wpmcn/TokenSpanFinder.class" afterPath="$PROJECT_DIR$/target/classes/wpmcn/TokenSpanFinder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wpmcn/TokenSpanFinderTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wpmcn/TokenSpanFinderTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/wpmcn/TokenSpanTest.class" afterPath="$PROJECT_DIR$/target/test-classes/wpmcn/TokenSpanTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gtrf/Tools$ArrayIndexComparator.class" afterPath="$PROJECT_DIR$/target/classes/gtrf/Tools$ArrayIndexComparator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lda/Tools$ArrayIndexComparator.class" afterPath="$PROJECT_DIR$/target/classes/lda/Tools$ArrayIndexComparator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gtrf/Tools.class" afterPath="$PROJECT_DIR$/target/classes/gtrf/Tools.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lda/Tools.class" afterPath="$PROJECT_DIR$/target/classes/lda/Tools.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Tsne$Builder.class" afterPath="$PROJECT_DIR$/target/classes/Tsne$Builder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Tsne.class" afterPath="$PROJECT_DIR$/target/classes/Tsne.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TsneTest.class" afterPath="$PROJECT_DIR$/target/classes/TsneTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Vectorlize.class" afterPath="$PROJECT_DIR$/target/classes/Vectorlize.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gtrf/Vocabulary.class" afterPath="$PROJECT_DIR$/target/classes/gtrf/Vocabulary.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lda/Vocabulary.class" afterPath="$PROJECT_DIR$/target/classes/lda/Vocabulary.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/CSVReader.java" afterPath="$PROJECT_DIR$/src/main/java/CSVReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/City.java" afterPath="$PROJECT_DIR$/src/main/java/City.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Clustering.java" afterPath="$PROJECT_DIR$/src/main/java/Clustering.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/JsonParser.java" afterPath="$PROJECT_DIR$/src/main/java/JsonParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Row.java" afterPath="$PROJECT_DIR$/src/main/java/Row.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Tsne.java" afterPath="$PROJECT_DIR$/src/main/java/Tsne.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/TsneTest.java" afterPath="$PROJECT_DIR$/src/main/java/TsneTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Vectorlize.java" afterPath="$PROJECT_DIR$/src/main/java/Vectorlize.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cragslist_clustering.iml" afterPath="$PROJECT_DIR$/cragslist_clustering.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <ignored path="cragslist_clustering.iws" />
+    <ignored path="com.cs599.xx.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,40 +72,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/cragslist_clustering$StandoffNamedEntityRecognizer.coverage" NAME="StandoffNamedEntityRecognizer Coverage Results" MODIFIED="1432591890960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>wpmcn.*</FILTER>
-    </SUITE>
-  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="cragslist_clustering" />
+    <favorites_list name="com.cs599.xx" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StandoffNamedEntityRecognizer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/wpmcn/StandoffNamedEntityRecognizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Vectorlize.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Vectorlize.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="90" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#965#966#0" expanded="true" />
-                <element signature="e#995#996#0" expanded="true" />
-              </folding>
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,80 +95,95 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Clustering.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="City.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/City.java">
+      <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MainApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TsneTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TsneTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3653846">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tsne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Tsne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="163" column="0" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Row.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Row.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KMeans.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/KMeans.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="111" column="39" selection-start-line="111" selection-start-column="39" selection-end-line="111" selection-end-column="39" />
+            <state vertical-scroll-proportion="-10.433333">
+              <caret line="463" column="46" selection-start-line="463" selection-start-column="34" selection-end-line="463" selection-end-column="46" />
               <folding>
-                <element signature="e#472#478#0" expanded="true" />
-                <element signature="e#546#556#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#12725#12744#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JsonParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JsonParser.java">
+      <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/MainApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            <state vertical-scroll-proportion="3.4777777">
+              <caret line="345" column="35" selection-start-line="345" selection-start-column="26" selection-end-line="345" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CSVReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CSVReader.java">
+      <file leaf-file-name="training_v3.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/training_v3.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.586207">
+              <caret line="19200" column="17" selection-start-line="19200" selection-start-column="17" selection-end-line="19200" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddressConverter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/GeoCoding/AddressConverter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cluster.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cluster/Cluster.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KMeansClustering.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cluster/KMeansClustering.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+              <folding>
+                <element signature="e#6852#6853#0" expanded="true" />
+                <element signature="e#6883#6884#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FuzzyCMeansClustering.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cluster/FuzzyCMeansClustering.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0333333">
+              <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="428" column="0" selection-start-line="428" selection-start-column="0" selection-end-line="428" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -183,6 +195,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -197,27 +210,35 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cs599.java" />
-        <option value="$PROJECT_DIR$/src/main/java/main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/driver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/clustering.java" />
-        <option value="$PROJECT_DIR$/src/main/java/JsonParser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CSVReader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TsneTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tsne.java" />
-        <option value="$PROJECT_DIR$/src/main/java/City.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Row.java" />
-        <option value="$PROJECT_DIR$/coords.csv" />
-        <option value="$PROJECT_DIR$/src/main/java/wpmcn/CustomCRFClassifier.java" />
-        <option value="$PROJECT_DIR$/src/main/java/wpmcn/Cnf.java" />
-        <option value="$PROJECT_DIR$/src/main/java/wpmcn/CRFClassifier.java" />
-        <option value="$PROJECT_DIR$/src/main/java/wpmcn/CoreNLPDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/wpmcn/StandoffNamedEntityRecognizer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/KMeans.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/training_new.json" />
+        <option value="$PROJECT_DIR$/src/main/java/test.java" />
+        <option value="$PROJECT_DIR$/smaple.fxml" />
         <option value="$PROJECT_DIR$/src/main/java/FuzzyCMeans.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Clustering.java" />
+        <option value="$PROJECT_DIR$/src/Cluster/FuzzyCMeans.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/training_v3_center.json" />
+        <option value="$PROJECT_DIR$/src/main/java/FCM.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Vector.java" />
+        <option value="$PROJECT_DIR$/src/Cluster/Cluster.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/fuzzyC_centroids.json" />
+        <option value="$PROJECT_DIR$/src/main/java/City.java" />
+        <option value="$PROJECT_DIR$/src/GMapsFX/src/main/java/Location.java" />
+        <option value="$PROJECT_DIR$/src/GMapsFX/src/main/java/Geometry.java" />
+        <option value="$PROJECT_DIR$/src/GMapsFX/src/main/java/Result.java" />
+        <option value="$PROJECT_DIR$/src/GMapsFX/src/main/java/AddressConverter.java" />
+        <option value="$PROJECT_DIR$/src/GMapsFX/src/main/java/GoogleResponse.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/GeoCoding/AddressConverter.java" />
+        <option value="$PROJECT_DIR$/src/Cluster/driver.py" />
+        <option value="$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/Cluster/KMeansClustering.java" />
+        <option value="$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/GeoCoding/GoogleResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LDA.java" />
+        <option value="$PROJECT_DIR$/src/main/draive.py" />
+        <option value="$PROJECT_DIR$/src/main/java/Clustering.java" />
+        <option value="$PROJECT_DIR$/src/Cluster/FuzzyCMeansClustering.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/training_v3.json" />
         <option value="$PROJECT_DIR$/src/main/java/Vectorlize.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MainApp.java" />
       </list>
     </option>
   </component>
@@ -237,12 +258,12 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="422" />
-    <option name="y" value="372" />
-    <option name="width" value="1687" />
-    <option name="height" value="1019" />
+    <option name="x" value="928" />
+    <option name="y" value="206" />
+    <option name="width" value="653" />
+    <option name="height" value="591" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -265,20 +286,18 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cragslist_clustering" />
+              <option name="myItemId" value="com.cs599.xx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cragslist_clustering" />
+              <option name="myItemId" value="com.cs599.xx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -288,7 +307,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cragslist_clustering" />
+              <option name="myItemId" value="com.cs599.xx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -302,7 +321,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cragslist_clustering" />
+              <option name="myItemId" value="com.cs599.xx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -320,7 +339,29 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+              <option name="myItemId" value="com.cs599.xx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="cragslist_clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.cs599.xx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -342,11 +383,89 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cragslist_clustering" />
+              <option name="myItemId" value="com.cs599.xx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cragslist_clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GMapsFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.cs599.xx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cragslist_clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GMapsFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.cs599.xx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cragslist_clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GMapsFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.cs599.xx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cragslist_clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GMapsFX" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -362,68 +481,130 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wpmcn" />
+              <option name="myItemId" value="gmapsfx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.cs599.xx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cragslist_clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GMapsFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gmapsfx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GeoCoding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.cs599.xx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cragslist_clustering" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classifiers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="recentsLimit" value="5" />
-    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/com/analysis/control" />
+    <property name="SearchEverywhereHistoryKey" value="f&#9;ACTION&#9;Git.Fetch" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\downloads\piBot-master\cragslist_clustering" />
-      <recent name="D:\downloads\piBot-master\cragslist_clustering\src\main\resources" />
-      <recent name="D:\downloads\piBot-master\cragslist_clustering\src\main" />
-      <recent name="D:\downloads\piBot-master\cragslist_clustering\src" />
-      <recent name="D:\downloads\piBot-master\cragslist_clustering\src\main\java\wpmcn" />
+      <recent name="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\GMapsFX\src\main\java\com\lynden\gmapsfx\GeoCoding" />
+      <recent name="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java" />
+      <recent name="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java\lda" />
+      <recent name="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\resources" />
+      <recent name="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\downloads\piBot-master\cragslist_clustering\classifiers" />
-      <recent name="D:\downloads\piBot-master\cragslist_clustering\src\main\resources" />
+      <recent name="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src" />
+      <recent name="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main" />
+      <recent name="D:\Documents\school work\2015_S@cpp\CS599\cragslist_clustering\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KMeans">
-    <configuration default="false" name="StandoffNamedEntityRecognizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.MainApp (1)">
+    <configuration default="false" name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="wpmcn.*" />
+          <option name="PATTERN" value="com.lynden.gmapsfx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="wpmcn.StandoffNamedEntityRecognizer" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="english.muc.7class.caseless.distsim.crf.ser.gz training.txt" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="com.lynden.gmapsfx.MainApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cragslist_clustering" />
+      <module name="com.cs599.xx" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="CoreNLPDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="AddressConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="wpmcn.*" />
+          <option name="PATTERN" value="com.lynden.gmapsfx.GeoCoding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="wpmcn.CoreNLPDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.lynden.gmapsfx.GeoCoding.AddressConverter" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -432,13 +613,18 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cragslist_clustering" />
+      <module name="com.cs599.xx" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Vectorlize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Vectorlize" />
+    <configuration default="false" name="AddressConverter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javaroots.latlong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.javaroots.latlong.AddressConverter" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -447,13 +633,13 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cragslist_clustering" />
+      <module name="com.cs599.xx" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="KMeans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="KMeans" />
+      <option name="MAIN_CLASS_NAME" value="MainApp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -462,22 +648,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cragslist_clustering" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Clustering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Clustering" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cragslist_clustering" />
+      <module name="com.cs599.xx" />
       <envs />
       <method />
     </configuration>
@@ -603,7 +774,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="cragslist_clustering" />
+      <module name="com.cs599.xx" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -686,7 +857,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="cragslist_clustering" />
+      <module name="com.cs599.xx" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -705,7 +876,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="cragslist_clustering" />
+      <module name="com.cs599.xx" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -724,7 +895,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="cragslist_clustering" />
+      <module name="com.cs599.xx" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -745,7 +916,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="cragslist_clustering" />
+      <module name="com.cs599.xx" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -767,7 +938,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="cragslist_clustering" />
+      <module name="com.cs599.xx" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -798,20 +969,34 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="Clustering" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Clustering" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="com.cs599.xx" />
+      <envs />
+      <method />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.StandoffNamedEntityRecognizer" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CoreNLPDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Vectorlize" />
-      <item index="3" class="java.lang.String" itemvalue="Application.KMeans" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Clustering" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Clustering" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MainApp" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AddressConverter" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AddressConverter (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MainApp (1)" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.KMeans" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Vectorlize" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Clustering" />
-        <item index="3" class="java.lang.String" itemvalue="Application.StandoffNamedEntityRecognizer" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CoreNLPDemo" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.MainApp (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MainApp" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AddressConverter" />
+        <item index="3" class="java.lang.String" itemvalue="Application.AddressConverter (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -821,50 +1006,54 @@
     </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="StructureViewFactory">
-    <option name="AUTOSCROLL_MODE" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6ce7e35c-31a7-410b-8352-fc834948b739" name="Default" comment="" />
-      <created>1432196271817</created>
+      <changelist id="0f82575f-b3b6-4ac4-9c04-af9559da7474" name="Default" comment="" />
+      <created>1432931318642</created>
       <option name="number" value="Default" />
-      <updated>1432196271817</updated>
+      <updated>1432931318642</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="422" y="372" width="1687" height="1019" extended-state="0" />
-    <editor active="true" />
+    <frame x="928" y="206" width="653" height="591" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15445322" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265097" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32243517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292797" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18254456" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1856177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.67538124" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295688" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45868465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3979764" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39926064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32788798" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -878,144 +1067,94 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tsne.java">
+    <entry file="file://$PROJECT_DIR$/src/Cluster/FuzzyCMeansClustering.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="403" column="0" selection-start-line="403" selection-start-column="0" selection-end-line="403" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Row.java">
+    <entry file="file://$PROJECT_DIR$/src/Cluster/KMeansClustering.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="43" column="9" selection-start-line="38" selection-start-column="7" selection-end-line="43" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#6852#6853#0" expanded="true" />
+            <element signature="e#6883#6884#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Clustering.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Vectorlize.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="68" column="24" selection-start-line="68" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TsneTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/training_new.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CSVReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/training.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19841" column="0" selection-start-line="19840" selection-start-column="0" selection-end-line="19841" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JsonParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-          <folding />
+          <caret line="20134" column="32" selection-start-line="20134" selection-start-column="32" selection-end-line="20134" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tsne.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Vectorlize.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Row.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/training_new.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <caret line="20134" column="32" selection-start-line="20134" selection-start-column="32" selection-end-line="20134" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/City.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Vectorlize.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/training.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24394058">
+          <caret line="562" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="2379" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#24298#24299#0" expanded="false" />
+            <element signature="e#24363#24364#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Clustering.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TsneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CSVReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/training.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JsonParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/training.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19841" column="0" selection-start-line="19840" selection-start-column="0" selection-end-line="19841" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1026,183 +1165,161 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lda/RunLDA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lda/Tools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/process/Process.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coords.csv">
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/zoom/MaxZoomResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/wpmcn/TokenSpanTest.java">
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/GoogleMapView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="117" column="27" selection-start-line="117" selection-start-column="27" selection-end-line="117" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/wpmcn/TokenSpanFinderTest.java">
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/MapReadyListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/training.txt">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/javafx-src.zip!/com/sun/javafx/application/LauncherImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="143" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="143" />
+          <caret line="874" column="0" selection-start-line="874" selection-start-column="0" selection-end-line="874" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/nb-configuration.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/nbactions.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/test/java/com/lynden/gmapsfx/javascript/JavascriptRuntimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/test/java/com/lynden/gmapsfx/javascript/JavascriptFunctionLineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="46" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/training_new.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29794934">
+          <caret line="13" column="114" selection-start-line="13" selection-start-column="114" selection-end-line="13" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClustersFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/training.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fuzzyC_centroids.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.112426035">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/io/FileInputStream.java">
+    <entry file="file://$PROJECT_DIR$/src/Cluster/KMeansClusteringInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
-          <folding />
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/edu/stanford/nlp/stanford-corenlp/3.5.2/stanford-corenlp-3.5.2.jar!/edu/stanford/nlp/ie/crf/CRFClassifier.class">
+    <entry file="file://$PROJECT_DIR$/src/Cluster/FormClusterException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2744" column="0" selection-start-line="2744" selection-start-column="0" selection-end-line="2744" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wpmcn/training.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23333333">
-          <caret line="37" column="86" selection-start-line="37" selection-start-column="86" selection-end-line="37" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wpmcn/CustomCRFClassifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wpmcn/TokenSpanFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#779#780#0" expanded="false" />
-            <element signature="e#831#832#0" expanded="false" />
-            <element signature="e#877#878#0" expanded="false" />
-            <element signature="e#916#917#0" expanded="false" />
-            <element signature="e#960#961#0" expanded="false" />
-            <element signature="e#1005#1006#0" expanded="false" />
+            <element signature="e#0#401#0" expanded="false" />
+            <element signature="e#367#368#0" expanded="false" />
+            <element signature="e#397#398#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wpmcn/CoreNLPDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <caret line="144" column="19" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wpmcn/StandoffNamedEntityRecognizer.java">
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/javascript/object/GoogleMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Vectorlize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="90" />
+          <caret line="82" column="15" selection-start-line="82" selection-start-column="15" selection-end-line="82" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#965#966#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
+            <element signature="e#0#9559#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tsne.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hankcs/lda/Corpus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="163" column="0" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
-          <folding />
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Row.java">
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/ArrayTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
+          <caret line="54" column="107" selection-start-line="54" selection-start-column="107" selection-end-line="54" selection-end-column="107" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JsonParser.java">
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/GeoCoding/Geometry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-          <folding />
+          <caret line="0" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CSVReader.java">
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Clustering.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+          <caret line="132" column="29" selection-start-line="132" selection-start-column="29" selection-end-line="132" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1210,26 +1327,152 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/City.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/KMeans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="111" column="39" selection-start-line="111" selection-start-column="39" selection-end-line="111" selection-end-column="39" />
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
           <folding>
-            <element signature="e#472#478#0" expanded="true" />
-            <element signature="e#546#556#0" expanded="true" />
+            <element signature="e#2629#2630#0" expanded="false" />
+            <element signature="e#2666#2667#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TsneTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lda/RunLDA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3653846">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="32" />
+        <state vertical-scroll-proportion="-1.044236">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DisplayFuzzyKMeans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/GeoCoding/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fuzzyC_uMatrix.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/draive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5271903">
+          <caret line="193" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LDA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="428" column="0" selection-start-line="428" selection-start-column="0" selection-end-line="428" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/GeoCoding/GoogleResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18706048">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/GeoCoding/AddressConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cluster/FuzzyCMeansClustering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0333333">
+          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cluster/Cluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cluster/KMeansClustering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+          <folding>
+            <element signature="e#6852#6853#0" expanded="true" />
+            <element signature="e#6883#6884#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Clustering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/training_v3.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.586207">
+          <caret line="19200" column="17" selection-start-line="19200" selection-start-column="17" selection-end-line="19200" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Vectorlize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.433333">
+          <caret line="463" column="46" selection-start-line="463" selection-start-column="34" selection-end-line="463" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#12725#12744#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GMapsFX/src/main/java/com/lynden/gmapsfx/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.4777777">
+          <caret line="345" column="35" selection-start-line="345" selection-start-column="26" selection-end-line="345" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -1287,7 +1530,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>cragslist_clustering</last-edited>
+          <last-edited>com.cs599.xx</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1312,7 +1555,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: au.com.bytecode:opencsv:2.4</last-edited>
+          <last-edited>Maven: ant:ant:1.6.5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

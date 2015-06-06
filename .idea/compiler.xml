@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="cragslist_clustering" />
+        <module name="com.cs599.xx" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cragslist_clustering" target="1.8" />
+      <module name="com.cs599.xx" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,6 +2,27 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Cluster" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Cluster/Cluster.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Cluster/FormClusterException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Cluster/FuzzyCMeansClustering.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Cluster/GenerateScore.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Cluster/KMeansClustering.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Cluster/KMeansClusteringInterface.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Cluster/KMeansVectors.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Cluster/Stemmer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Cluster/StopWords.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/GMapsFX" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/LDA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/MainApp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Vector.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gtrf" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/hankcs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lda" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lda/Corpus.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/lda/Vocabulary.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/process" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wpmcn" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/training_v3.json" charset="GBK" />
   </component>
 </project>
